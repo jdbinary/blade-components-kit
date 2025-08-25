@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/img/blade.svg" alt="Blade Custom Kit Logo" width="120">
+  <img src="public/img/blade.svg" alt="Blade Custom Kit Logo" width="240">
 </p>
 
 # Blade Custom Kit
